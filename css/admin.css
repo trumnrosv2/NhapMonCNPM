@@ -1,0 +1,104 @@
+.body_page_adm{
+    width: 92%;
+    margin: auto;   
+}
+.hd_ad{
+    width: 100%;
+    padding-top: 3%;
+    height: 30px;
+    display: flex;
+    
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+.hd_ad>p{
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+#btn_sp{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    padding: 5px 6px;
+    border: none;
+    font-weight: bold;
+}
+.frame_adm{
+    margin-top: 2%;
+    width: 100%;
+    border: 1px solid #000000;
+}
+.hdx_ad{
+    width: 92%;
+    margin-top: 2%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    
+}
+.hdx_ad>ul{
+    width: 100%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.hdx_ad>ul>li{
+  margin-right: 3%;
+}
+.hdx_ad>ul>li>a{
+    color: black;
+    font-weight: 480;
+    
+}
+
+.finp_sp>input{
+    width: 88%;
+    padding: 1%;
+}
+.finp_sp{
+    width: 92%;
+    margin: auto;
+ background-color: #f4f4f4;
+ display: flex;
+ justify-content: space-between;
+}
+.hd_ad2{
+    width: 92%;
+    margin: auto;
+    display: flex;
+ justify-content: space-between;
+}
+.hd_ad2>p{
+    font-size: 18px;
+    margin-top: 3%;
+    font-family: 500;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.chung_anh{
+    margin: auto;
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+}
+.if_sp{
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+}
+.img_sp{
+    margin: 1% 0%;
+    width: 20%;
+    
+}
+.img_sp>img{
+    width: 100px;
+    height: 100px;
+}
+.satatus{
+    padding-top: 2%;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}

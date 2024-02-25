@@ -1,0 +1,81 @@
+.khung-add-sp{
+    width: 92%;
+    margin: auto;
+}
+.chung_div{
+    padding-top: 3%;
+}
+.chung_div>span{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+#back_admin{
+    background-color: #ffffff;
+    border: none;
+    margin-right: 5%;
+}
+.fr_tsp{
+    padding-top: 3%;
+}
+
+.fr_tsp>p{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.fr_tsp>input{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    width: 100%;
+    padding: 1%;
+}
+.fr_tsp>textarea{
+    width: 100%;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+#save_product{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    margin-right: 3%;
+    background-color: #ffffff;
+    border: 2px solid #45FFCA;
+    padding: 8px 8px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+
+/* đây là phần của trang update xoa sản phẩm */
+#delete_product{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    background-color: #ffffff;
+    border: 2px solid #FF8F8F;
+    padding: 8px 8px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+.anh_sanPham{
+    width: 50%;
+   
+}
+.anh_sanPham>img{
+    width: 50%;
+    
+}
+.div_2btn{
+    width: 30%;
+    padding-top: 3%;
+    padding-bottom: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.div_2btn>input{
+    padding: 5px 20px;
+}
+
+#selectOption{
+    width: 20%;
+    padding: 8px 0px;
+}

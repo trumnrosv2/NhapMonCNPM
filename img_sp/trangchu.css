@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style: none;
+}
+
+.header {
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+#logo {
+    height: 70px;
+    width: 15%;
+    left: 5%;
+    position: relative;
+}
+.menu {
+    line-height: 70px;
+    width: 50%;
+    margin-left: 8%;
+}
+.menu li {
+    margin-left: 10%;
+    color: white;
+}
+.menu2 {
+    width: 20%;
+    line-height: 70px;
+    margin-left: 3%;
+}
+.menu2 a{
+    margin-left: 15%;
+}
+.content {
+    display: block;
+    position: relative;
+    margin-top: 70px;
+}
+.title {
+    background-color: #c1c4cf;
+    height: 15rem;
+    width: 100%;
+}
+.pr {
+    background-color: #FF8A00;
+    width: 95%;
+    height: 85%;
+    margin: 5px 0px 10px 30px;
+    display: flex;
+}
+.pr-text {
+    color: #ffffff; 
+    text-align: center; 
+    font-size: large;
+    line-height: 200%;
+    margin: 2% 0% 2% 5%;
+}
+.tt {
+    background-color: #c1c4cf;
+    border-radius: 5px;
+    margin-top: 2%;
+    border: 2px solid grey;
+    width: 10%;
+    text-align: center;
+    margin-left: 3%;
+}
+#box1 {
+    width: 93%;
+    height: 15rem;
+    border-radius: 0px;
+}
+.footer {
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+.foot-content {
+    width: 200px;
+    height: 200px;
+    line-height: 40px;
+    margin: 30px 10px 10px 10px;
+}
+.mxh i {
+    margin-left: 15px;
+    font-size: 22px;
+}
+#box1 {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
